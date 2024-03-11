@@ -1,4 +1,4 @@
-![alt text](7LIp.gif)
+![alt text](pyth.gif)
 
 # Data Science Resources and Python Code Notebooks
 
