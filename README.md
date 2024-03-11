@@ -1,4 +1,4 @@
-![alt text](pyth.gif)
+![alt text](python.gif)
 
 # Data Science Resources and Python Code Notebooks
 
