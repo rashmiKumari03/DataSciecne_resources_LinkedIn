@@ -1,5 +1,5 @@
+![alt text](download-1.jpg)
 
-![Alt Text]('https://images.app.goo.gl/j2ou18UTHhRoyzWYA')
 
 # Data Science Resources and Python Code Notebooks
 
