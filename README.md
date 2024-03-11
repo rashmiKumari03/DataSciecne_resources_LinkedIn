@@ -1,5 +1,4 @@
-![alt text](download-1.jpg)
-
+![alt text](pyth-1.gif)
 
 # Data Science Resources and Python Code Notebooks
 
