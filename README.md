@@ -6,5 +6,7 @@ Welcome to the Data Science resources repository! Whether you're a beginner or a
 
 - **Jupyter Code Notebooks**: Interactive notebooks with code examples and explanations to deepen your understanding of various Data Science concepts.
 
-* *Python_Resources*
+## Resources
+
+- [Python Resources](https://github.com/rashmiKumari03/DataSciecne_resources_LinkedIn/tree/main/01.Python): Comprehensive resources to learn Python for Data Science.
 
